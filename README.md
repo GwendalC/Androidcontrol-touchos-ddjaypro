@@ -10,3 +10,6 @@ modified for android (MIDI BLE, TOUCH OS on android - midimittr on Iphone side (
 
 In DDJay pro mapping 
 -> change the property     <string>Tab A9+ de Gwendal Bluetooth</string> to match your android name (as appearing in djayrpo)
+
+
+https://community.algoriddim.com/t/ipad-remote-for-djay-on-mac/21474
